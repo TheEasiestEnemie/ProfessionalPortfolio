@@ -1,26 +1,14 @@
-# Overview
+# Overview - Hello World (Test Project)
 
-The purpose of these modules is to demonstrate that I am proficient with coding and its many forms. The TerrariaBlockPicker is the first project, with {Add second, third, etc. project here}.
+The purpose of this module is to set up a basic framework for what future projects should look like.
 
-## TerrariaBlockPicker
-This softwares purpose is to pick a range of blocks that have a similar color to help builders in terraria pick blocks that will work well together. You can also pick a gradient to go from the initial color and gradually go to the final color.
+## Hello World
+A single line of Python code that prints Hello World. That's it.
 
-When building in terraria, it's important to mix textures to make builds stand out. This program is designed to make picking similar blocks for a color you want easier. 
+Here's a video showing the finished project of the github repository
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+[Software Demo Video](http://youtube.link.goes.here) - PLACEHOLDER
 
-[Software Demo Video](http://youtube.link.goes.here)
+I used VS Code to edit the files for this project.
 
-## {Second Project, Third Project, etc}
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+I used python and markdown for this small project.
