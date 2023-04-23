@@ -7,7 +7,7 @@ A single line of Python code that prints Hello World. That's it.
 
 Here's a video showing the finished project of the github repository
 
-[Software Demo Video](http://youtube.link.goes.here) - PLACEHOLDER
+[Click here to see the video](https://youtu.be/fQ5h5VjiNDg)
 
 I used VS Code to edit the files for this project.
 
