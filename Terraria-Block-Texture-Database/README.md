@@ -14,7 +14,7 @@ The retrieve_an_image file is a demonstration of how the database will be called
 
 Here's a link to a video demonstration of what the database looks like and how it works.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4WTexTKFYoo)
 
 # Cloud Database
 
@@ -28,12 +28,9 @@ Firebase was a great help with creating my project, but I will admit it was a st
 
 I made use of the python language to communicate with the database, using the firebase_admin library to connect to firebase.
 
-# Useful Websites
-
-Here's a couple websites that helped me get started using firebase_admin.
+Here's a website that helped me get started using firebase_admin.
 
 - [Free Code Camp - How to Get Started With Firebase Using Python](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
