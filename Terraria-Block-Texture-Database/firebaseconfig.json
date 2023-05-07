@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "terraria-block-texture-puller",
+    "private_key_id": "c3f44edbc4903b5627da0c9e0a8788b1a8c541b5",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC20cIo1b4FAcG+\nj/3sVgIUcMzIwYWr9QdqaGTXQrwkZtq0wcbK8D8hMDz54ILKaGoCuPnoMuR4Y8SP\nDIaYSq5gOI/tyD99GvO1KifjFBFzkYBp6r7jwfIMeAjGDT5dAKb3XfqlgSB7Xnq1\nF/0UKpAfihF4d9agZXbB5ggRiIeaHY+ERgrra8OGtYR9iwAO5nBzx6cSseLq9h4G\nBRZUrsVwKrmDMeb5c6LI3cZHpewDZb9OpmqlXv4oVYrfmUOT9EbI+2NRj5D0Hw6U\n0GOojGaFN/eKD9JR1dj62fY4DCt/priMix674aFut2hNnighw26XXrzLiY1C6JRP\nngStP0N9AgMBAAECggEAOP36H73GT4xFKFF+MMN9QX8KsBj4QWuRBMCHkz2oJlb0\nHj58aP5tR7zgfWtaipvzVGby7UqUQ92iRI/8k5RQeQmZAOEYvbj9uX/rUFSMvjDh\nTeOS37Cx8uYmogs14ktWQa5H+XlgNWV2LmdMi5FbPaHOoXYGcBlBZN//quubjlTa\nBP+l/xATntXkFwffsgffAo3SioMrJbrQ27R/nomt3VMtvWFI/p46HivP3X4dVaAf\n7fqxkAJVOgUC5OEFtD1Nn/A4ydLpwmn05ARPULGLp4Y/UEhGdYoGh+4kGQw0NHIt\npvzbT/lPi0DZXGKkacmQggfqG0YTuKsItfgo6NX0NwKBgQDyyVAwp3ZQlp0sLfiw\nQ8CKMl/PZLyAQnT8CsoPuPwer+5YBPnpKkDvKLxgP7PlL/1N5YCSrXqD9Dug6kXJ\ndNFpxoOLcBG5v34s9+FrxnCQkTAVfNSLZebLQuNdYMR+fgxCDW15ohk+ZU1BU2cc\no3XQIQ/8Exuu355YnwS4zx109wKBgQDAxPBKCgr636/Bb0RwfHtpb5z4P3BUnosW\nQk93BFWj6aqtiEe8wNq3oVWRZQB4UNyZGvnhbrMfti5wiPJI6w3Qa4FTbC/QQnv2\nmGa46yN39nNLblcUJrasNV7XpyQfzPPb5VNCHROhiXtWC2NCskkN5IzQR9rTa7g7\nVsVUTPbSKwKBgCJ7bSQ75JX1jkUkEloWhVYbaXgvOoaM6ciST7iD8Wr6WcOukUAI\nfEh7ZKXW5ln6wuM5YVVzxh7PpVhpbZf7O3LmevBm7l2PUQBaBG4mNP6TYFzs6dMS\nmgDscxZkFARTKrKG7bGE0EkIYjyQ9+gdXzI8P+TxYdEoeXjkvOryn6BpAoGAGaSZ\nCmBXoZPL/4Fbq1MD37y3NtbJjJgijG15wK1U7x8QU1FDqbpF3hOaHGNBMsAe+Eb8\nYp6lOVy0xMeS41xRVB5Y783+dkfB0cXoNEUjTLv+DlS5RLb5qeLXoPxc89YBwoi5\nEJxplh2ByKpvI9ovmaeDi9ljJKi5szsRuOscEk0CgYEAwtfyXZI/TIDNF5iO4Fvf\nZMHGSzfXRELnfpYBMolEmwvgES8T4PEQkKKNqIIPhfY1L5SoGkhqt9T3638zeXe5\nf2RGLRExLGcZUMPytNw8yV9brmA6s4PyamvddW9ef6/1/OzDvwrWo1bErEtzyZCu\noc2KzdzxWgaYUpohyfSdbqg=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-7ff09@terraria-block-texture-puller.iam.gserviceaccount.com",
+    "client_id": "105675919504935719185",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7ff09%40terraria-block-texture-puller.iam.gserviceaccount.com"
+}
