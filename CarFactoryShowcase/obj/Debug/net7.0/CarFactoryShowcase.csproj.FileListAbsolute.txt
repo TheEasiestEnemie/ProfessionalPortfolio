@@ -1,0 +1,15 @@
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\bin\Debug\net7.0\CarFactoryShowcase.exe
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\bin\Debug\net7.0\CarFactoryShowcase.deps.json
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\bin\Debug\net7.0\CarFactoryShowcase.runtimeconfig.json
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\bin\Debug\net7.0\CarFactoryShowcase.dll
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\bin\Debug\net7.0\CarFactoryShowcase.pdb
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.csproj.AssemblyReference.cache
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.AssemblyInfoInputs.cache
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.AssemblyInfo.cs
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.csproj.CoreCompileInputs.cache
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.dll
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\refint\CarFactoryShowcase.dll
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.pdb
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\CarFactoryShowcase.genruntimeconfig.cache
+C:\Users\13857\OneDrive\Desktop\CSE 251\ProfessionalPortfolio\CarFactoryShowcase\obj\Debug\net7.0\ref\CarFactoryShowcase.dll
