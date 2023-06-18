@@ -6,7 +6,7 @@ The purpose of this small project was to demonstrate what I could create with a 
 
 Take a look at this video below for a quick explanation of the program and how it works.
 
-[Choice-Selector Demo](http://youtube.link.goes.here)
+[Choice-Selector Demo](https://youtu.be/3Gj4X1HzG7A)
 
 # Development Environment
 
