@@ -1,11 +1,11 @@
 namespace CarFactoryShowcase {
     public class Constants {
-        public static int factoryCount = 2;
+        public static int factoryCount = 20;
         public static int dealerCount = 5;
-        public static int shippingTruckCapacity = 10;
-        public static int avgTimeToSellCar = 500; // measured in milliseconds
+        public static int shippingTruckCapacity = 100;
+        public static int avgTimeToSellCar = 10000; // measured in milliseconds
         public static int avgTimeToBuildCar = 500; // measured in milliseconds
-        public static int carsToBuild = 200;
+        public static int carsToBuild = 100;
 
         // CHANGE WITH CAUTION! Unfortunately, the program will hang in some 
         // circumstances if this is increased. Sorry!
