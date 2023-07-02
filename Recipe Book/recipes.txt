@@ -1,0 +1,16 @@
+Quesadillas
+cheese-0.3
+tortilla-0.5
+*
+Fried Rice
+butter-0.5
+garlic-0.1
+soy sauce-0.3
+rice-2.0
+carrot-1.0
+celery-1.0
+onion-1.5
+spam-0.75
+sesame oil-0.25
+chicken-1.0
+*
