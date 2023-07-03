@@ -34,7 +34,7 @@
       (println "Enter your ingredient:")
       (let [ingredient (read-line)
             list (read "ingredients.txt")]
-           (println list)
+           ;;(println list)
            (if (not (empty? (rest list)))
               (if (not= (trim (first list)) (trim ingredient))
                 (do (add-ingredient ingredient (rest list))
@@ -185,8 +185,8 @@
                         (view-txt-file "completedRecipes.txt")
                   )
                   (let [current-recipe (first recipe-list)]
-                        (println recipe-list)
-                        (println current-recipe)
+                        ;;(println recipe-list)
+                        ;;(println current-recipe)
                         (if (not (empty? (rest recipe-list)))
                               (find-recipes current-recipe [] (rest recipe-list) (rest recipe-list))
                               (view-txt-file "completedRecipes.txt")
@@ -210,9 +210,9 @@
                                                       (conj ingredients-left (str "INVALID-0.0"))
                                                 ))
                         ]
-                        (println current-ingredient)
-                        (println ingredients-left-acc recipe-list-acc)
-                        (println (completes-recipe ingredients-left-acc current-recipe-list))
+                        ;;(println current-ingredient)
+                        ;;(println ingredients-left-acc recipe-list-acc)
+                        ;;(println (completes-recipe ingredients-left-acc current-recipe-list))
                         (if (not (empty? (rest recipe-list-acc)))
                               (if (completes-recipe ingredients-left-acc current-recipe-list)
                                     (do 
