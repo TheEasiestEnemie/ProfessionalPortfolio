@@ -14,11 +14,3 @@ chicken
 carrot
 celery
 onion
-cheese
-tortilla
-butter
-chicken
-sesame oil
-carrot
-celery
-onion

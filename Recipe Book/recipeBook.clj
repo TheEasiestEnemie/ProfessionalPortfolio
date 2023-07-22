@@ -15,9 +15,17 @@
       )
 
       ([file-name recipe]
-      (with-open [w (clojure.java.io/writer file-name :append true)]
-           (.write w (str recipe "\n"))   ;; intended for recipes that can be made with available ingredients
+      (let [recipes (read file-name)]
+            (if (= (first recipes) "No recipes found!")
+                  (with-open [w (clojure.java.io/writer file-name :append false)]
+                  (.write w (str recipe "\n"))   ;; intended for recipes that can be made with available ingredients
+                  )
+                  
+                  (with-open [w (clojure.java.io/writer file-name :append true)]
+                  (.write w (str recipe "\n"))   ;; intended for recipes that can be made with available ingredients
+                  )
             )
+      )
       )
 
       ([file-name ingredient amount]
@@ -25,7 +33,7 @@
            (.write w (str ingredient "-" amount "\n"))   ;; intended for key pairs ("tomato"-2.0)
             )
       )
-      )
+)
 
 (def recipes (read "recipes.txt"))
 
@@ -88,7 +96,7 @@
 
                   ;;(println ingredient2 amount2)
                   (if (= (trim ingredient1) (trim ingredient2))
-                        (if (< amount1 amount2)
+                        (if (<= amount1 amount2)
                               true
                               (println "Don't have enough of " ingredient1)
                         )
@@ -112,7 +120,7 @@
 
                   ;;(println ingredient2 amount2)
                   (if (= (trim ingredient1) (trim ingredient2))
-                        (if (< amount1 amount2)
+                        (if (<= amount1 amount2)
                               true
                               (println "Don't have enough of " ingredient1)
                         )
@@ -162,6 +170,7 @@
 
 (defn cleanup []
       (write "completedRecipes.txt")
+      (write "completedRecipes.txt" "No recipes found!")
 )
 
 (defn view-txt-file [filename]
@@ -175,7 +184,10 @@
 
 (defn find-recipes 
       ([]
-            (find-recipes recipes)
+            (if (empty? (read "yourIngredients.txt"))
+                  (view-txt-file "completedRecipes.txt")
+                  (find-recipes recipes)
+            )
       )
 
       ([recipe-list]
@@ -202,7 +214,6 @@
                         (view-txt-file "completedRecipes.txt")
                   )
                   (do 
-                  ;;(println (rest recipe-list-acc))
                   (let [current-ingredient (first recipe-list-acc)
                         amount-required (split-and-compare current-ingredient (read "yourIngredients.txt"))
                         ingredients-left-acc (do (if (= amount-required true)
@@ -223,11 +234,10 @@
                               )     
                               (view-txt-file "completedRecipes.txt")
                         )
-                        )
+                  )
                   )
             )
       )
-
 )
 
 
